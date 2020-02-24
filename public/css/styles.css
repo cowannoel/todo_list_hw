@@ -34,7 +34,8 @@ li span {
 li button {
   background: #f2360c;
   color: #fff;
-  border: none;
+  border-radius: 100%;
+  border-color: inherit;
   padding: 10px;
   cursor: pointer;
 }
